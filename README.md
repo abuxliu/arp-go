@@ -1,11 +1,14 @@
 # arp-go
 
+### CMD
+
+```
+yum install libpcap-devel
+```
+
 ### 参考资料
 
- yum install libpcap-devel
 - [goscan](https://github.com/timest/goscan/blob/master/src/main/main.go)
-
-# goscan
 
 ![image](https://user-images.githubusercontent.com/1621058/32154543-63c4e560-bcff-11e7-8a92-5281e18f221e.png)
 
